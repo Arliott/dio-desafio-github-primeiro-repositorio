@@ -1,0 +1,44 @@
+body{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    color: white;
+}
+#pagamento{
+    color: red;
+    text-align: center;
+}
+.preço{
+    color: red;
+    font-size: 18px;
+}
+.produto{
+    font-size: 14px;
+}
+.antigo{
+    font-size: 12px;
+}
+.imagemprod{
+    width: 10%; 
+    text-align: center; 
+    vertical-align: bottom;
+}
+td#cat{
+    width: 20%; 
+    vertical-align: top;
+}
+.menu{
+    background-color:maroon;
+}
+.menu a{
+    color: white;
+    text-decoration: none;
+}
+.logo{
+    text-align: left;
+    color: white;
+}
+#rodape{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
